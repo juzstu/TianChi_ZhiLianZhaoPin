@@ -1,6 +1,6 @@
 ## 步骤
 
-step 1: 生成TFDIF，Doc2Vec向量特征
+step 1: 生成TFIDF，Doc2Vec向量特征
 
 step 2: 合并sql写的特征
 
